@@ -1,5 +1,3 @@
-package com.zetcode;
-
 import java.util.Random;
 
 public class Shape {
